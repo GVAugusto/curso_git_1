@@ -1,2 +1,3 @@
 Testando uma atualização
 vamos ver se vai funcionar de acordo
+funcionalidade b
